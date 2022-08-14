@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ginormousnut
-- 👀 I’m interested in reading and in translating fanfictions
+- 👀 I’m interested in reading
 - 🌱 I’m currently learning c++
 - 📫 Reach me on telegram @nuttieyo
 
