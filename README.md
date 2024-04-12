@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @ginormousnut
-- 👀 I’m interested in reading, drinking in kk and ...
-- 🌱 I’m currently learning c++, c and c#
+- 🌱 I’m currently learning .NET, ML
 - 📫 Reach me on telegram @nuttieyo
 
 <!---
