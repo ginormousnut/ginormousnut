@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning .NET, ML
+- 🌱 I’m currently learning ML
 - 📫 Reach me on telegram @nuttieyo
 
 <!---
